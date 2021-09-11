@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
+- 💬 Ask me about anything New Technology 
 - 📫 How to reach me: rushikeshbhattad8@gmail.com
 - 😄 Pronouns: Rushi
 - ⚡ Fun fact: One thing I cannot live without is CODING
