@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my Carrer
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning scala and gcp#
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything New Technology 
